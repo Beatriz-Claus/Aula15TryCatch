@@ -1,0 +1,13 @@
+C:\Users\cristina dias\Desktop\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.exe
+C:\Users\cristina dias\Desktop\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.deps.json
+C:\Users\cristina dias\Desktop\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.runtimeconfig.json
+C:\Users\cristina dias\Desktop\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.runtimeconfig.dev.json
+C:\Users\cristina dias\Desktop\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.dll
+C:\Users\cristina dias\Desktop\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.pdb
+C:\Users\cristina dias\Desktop\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.csprojAssemblyReference.cache
+C:\Users\cristina dias\Desktop\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\cristina dias\Desktop\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.AssemblyInfoInputs.cache
+C:\Users\cristina dias\Desktop\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.AssemblyInfo.cs
+C:\Users\cristina dias\Desktop\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.dll
+C:\Users\cristina dias\Desktop\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.pdb
+C:\Users\cristina dias\Desktop\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.genruntimeconfig.cache
